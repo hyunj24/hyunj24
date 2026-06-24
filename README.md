@@ -7,10 +7,12 @@
 
 ## 💡 Activities
 
-- #### 대학생 IT 연합 동아리 [COTATO](https://www.cotato.kr/)
+- `2025.09 ~ 현재` 대학생 IT 연합 동아리 [COTATO](https://www.cotato.kr/)
    
-   - `2025.09 ~ 2026. 02` 12기 BaekEnd 멤버, [12기 교육팀](https://github.com/IT-Cotato/12th-Education)
-   - `2026.02 ~ 현재` 13기 운영진(교육팀장), [13기 교육팀](https://github.com/IT-Cotato/13th-Education)
+   -  12기 BaekEnd 멤버, [12기 교육팀](https://github.com/IT-Cotato/12th-Education)
+   -  13기 운영진(교육팀장), [13기 교육팀](https://github.com/IT-Cotato/13th-Education)
+ 
+- `2026.06 ~ 현재`  안랩(AhnLab) EPI 개발팀 인턴 근무 
 
 ## 📌 Projects
 - #### 맛있는 습관이 이어지는 곳, [🔗 **CooKeep**](https://cookeep.kr/) (데모데이 대상)
@@ -19,9 +21,8 @@
    - 개발 후 유지보수 진행 중
     
 - #### 직접 분리배출하면서 나만의 섬을 개척해나가는 타이쿤형 힐링 게임, [🔗 수달(수거의 달인)](https://github.com/sudal-kgu)
-   - `2026.03 ~ 현재` AI컴퓨터공학부 심화캡스톤디자인 프로젝트
+   - `2026.03 ~ 2026.05` AI컴퓨터공학부 심화캡스톤디자인 프로젝트
    - YOLO 객체 탐지를 이용한 AI 기반 쓰레기 분석과, 게임화된 리워드 시스템을 활용한 분리배출 행동 유도 플랫폼
-   - 개발 진행 중
 
 ## 📚 Study
    - `2025.09 ~ 2026.02` 코딩 테스트 & CS 면접 스터디 (2시간 백준 문제풀이, CS 기술 모의 면접)
