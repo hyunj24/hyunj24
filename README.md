@@ -12,7 +12,7 @@
    -  12기 BaekEnd 멤버, [12기 교육팀](https://github.com/IT-Cotato/12th-Education)
    -  13기 운영진(교육팀장), [13기 교육팀](https://github.com/IT-Cotato/13th-Education)
  
-- `2026.06 ~ 현재`  안랩(AhnLab) EPI 개발팀 인턴 근무 
+- `2026.06 ~ 현재`  안랩(AhnLab) EPI개발팀 패치랩(PatchLAB) 소속 인턴 근무 
 
 ## 📌 Projects
 - #### 맛있는 습관이 이어지는 곳, [🔗 **CooKeep**](https://cookeep.kr/) (데모데이 대상)
