@@ -7,7 +7,7 @@
 
 ## 💡 Activities
 
-- `2025.09 ~ 현재` 대학생 IT 연합 동아리 [COTATO](https://www.cotato.kr/)
+- `2025.09 ~ 2026.08` 대학생 IT 연합 동아리 [COTATO](https://www.cotato.kr/)
    
    -  12기 BaekEnd 멤버, [12기 교육팀](https://github.com/IT-Cotato/12th-Education)
    -  13기 운영진(교육팀장), [13기 교육팀](https://github.com/IT-Cotato/13th-Education)
